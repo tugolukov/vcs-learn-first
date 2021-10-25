@@ -6,7 +6,7 @@ namespace VcsLearnFirst
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Created from development");
         }
     }
 }
